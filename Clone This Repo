@@ -1,0 +1,6 @@
+#nstall ProxyChains + Tor on Kali Linux
+#A step-by-step Bash script to install and configure ProxyChains and Tor for anonymous browsing on Kali Linux.
+
+#📥 Clone This Repo
+git clone https://github.com/umairkhan404/proxychains-tor-setup.git
+
